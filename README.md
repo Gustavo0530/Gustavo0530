@@ -1,8 +1,9 @@
 ## Olá! Eu me chamo Gustavo Maranhão.
 
-- 👨‍💻 Desenvolvedor Front- End
-- Atualmente estudando HTML e CSS
-- Como chegar até mim: 
+- 👨‍💻 | Desenvolvedor Front-End
+- 📚 | Atualmente estudando HTML e CSS
+- 📞 | Como chegar até mim: 
+ 
 
 <div>
   <a href="https://github.com/Gustavo0530"></a>
