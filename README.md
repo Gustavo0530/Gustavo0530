@@ -11,8 +11,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo0530&layout=compact&show_icons=true&theme=dracula" alt="">
   <div>
    <div style="display: inline-block;"><br>
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    </div>
+    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+          <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
+   </div>
    
    ##
    
