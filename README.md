@@ -1,8 +1,8 @@
-Olá, eu me chamo Gustavo Maranhão.
+## Olá! Eu me chamo Gustavo Maranhão.
 
-Atualmente eu estou aprendendo HTML e CSS.
-
-Como chegar até mim:  Email
+Sou desenvolver Front-End
+Atualmente estudando HTML e CSS
+Como chegar até mim: 
 
 <div>
   <a href="https://github.com/Gustavo0530"></a>
