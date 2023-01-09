@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Gustavo Maranhão.
 
-- Sou desenvolver Front-End
+- 👨‍💻 Desenvolvedor Front- End
 - Atualmente estudando HTML e CSS
 - Como chegar até mim: 
 
