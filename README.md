@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Gustavo Maranhão.
 
-- 👨‍💻 | Desenvolvedor Front-End
-- 📚 | Atualmente estudando HTML e CSS
-- 📌 | Como chegar até mim: 
+- 👨‍💻 | Front-End Developer
+- 📚 | Currently studying HTML and CSS
+- 📌 | How to get to me: 
  
 
 <div>
