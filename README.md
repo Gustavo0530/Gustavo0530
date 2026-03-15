@@ -3,7 +3,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Technology+Enthusiast;Gaming+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A64D8&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Technology+Enthusiast;Gaming+%26+Tech+Explorer" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -20,15 +20,15 @@ I'm a **Computer Engineering Student** with a strong passion for exploring techn
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo0530&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo0530&show_icons=true&theme=transparent&title_color=6A64D8&text_color=ffffff&icon_color=6A64D8&border_radius=10" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo0530&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&border_radius=10" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo0530&layout=compact&theme=transparent&title_color=6A64D8&text_color=ffffff&icon_color=6A64D8&border_radius=10" />
       </td>
     </tr>
   </table>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo0530&theme=transparent&currStreakNum=36BCF7&sideLabels=ffffff&stroke=36BCF7&fire=36BCF7&border_radius=10" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo0530&theme=transparent&currStreakNum=6A64D8&sideLabels=ffffff&stroke=6A64D8&fire=6A64D8&border_radius=10" />
 </div>
 
 <br>
