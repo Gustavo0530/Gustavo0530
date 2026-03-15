@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="100%" alt="Gustavo Maranhão Banner" style="border-radius: 10px;" />
+  <img src="banner.png" width="100%" alt="Gustavo Maranhão Banner" style="border-radius: 10px;" />
 
   <br>
 
@@ -36,11 +36,4 @@ I'm a **Computer Engineering Student** with a strong passion for exploring techn
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,html,css,linux,vscode,git" />
-</p>
-
-<br>
-
----
-<p align="center">
-  <i>"Passionate about Engineering and Technology."</i>
 </p>
