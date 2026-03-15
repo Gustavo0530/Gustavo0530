@@ -35,12 +35,12 @@ I'm a **Computer Engineering Student** with a strong passion for exploring techn
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,js,html,css,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,linux,vscode,git" />
 </p>
 
 <br>
 
 ---
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<p align="center">
+  <i>"Passionate about Engineering and Technology."</i>
+</p>
